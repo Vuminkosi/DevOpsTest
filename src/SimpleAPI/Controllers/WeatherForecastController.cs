@@ -44,7 +44,7 @@ namespace SimpleAPI.Controllers
         [Route("api/weather-test")]
         [HttpGet]
         public ActionResult<string> GetTest(){
-            return "Vincent";
+            return "Failed Test";
         }
     }
 }
