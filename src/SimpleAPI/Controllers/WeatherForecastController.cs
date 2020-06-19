@@ -13,7 +13,7 @@ namespace SimpleAPI.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-           "Vumie","Nkosi", "Matibe","Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+           "Vumie","Nkosi", "Matibe","Freezing", "Go And Cook", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
 
         public WeatherForecastController()
