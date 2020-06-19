@@ -36,6 +36,8 @@ namespace SimpleAPI
                 app.UseDeveloperExceptionPage();
             }
 
+            // Git Test Change
+
             app.UseHttpsRedirection();
 
             app.UseRouting();
